@@ -2,4 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/PocAwsSnsCore/obj
+**/obj
+**/bin
+/.vs
+/Documentação
